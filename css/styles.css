@@ -1,6 +1,7 @@
 /* ============================ ID SECTION ============================*/
 #main{
     background-color: silver;
+    text-align: center;
 }
 #title{
     text-align: center;
@@ -15,6 +16,13 @@
 
 }
 #tribute-info{
+    width: 50%;
+    margin: 0 auto 0 auto;
     
 }
 /* ============================ CLASS SECTION =========================*/
+
+.list {
+    text-align: left;
+    line-height: 2rem;
+}
