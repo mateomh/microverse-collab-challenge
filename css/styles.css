@@ -1,0 +1,17 @@
+/* ============================ ID SECTION ============================*/
+#main{
+    background-color: silver;
+}
+#title{
+    text-align: center;
+}
+#img-div{
+    text-align: center;
+    background-color:white;
+    margin: 3%;
+    padding-bottom: 3%;
+}
+#image{
+
+}
+/* ============================ CLASS SECTION =========================*/
